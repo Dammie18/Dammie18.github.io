@@ -63,4 +63,16 @@ The raw data was gotten from Kaggle and was cleaned to remove duplicate rows. Pi
  
 **Technology used:** SQL server
 
+# Project 6
+**Title:** Football Players Data Cleansing
+ 
+**SQL Code:** [SQL Queries](https://github.com/Dammie18/Dammie18.github.io/blob/main/FootballPlayers_data.sql)
+ 
+**SQL Skills Used:** Differnt DDL statements are used such as the CREATE TABLE, INSERT INTO JOIN statement
+ 
+**Project Description:** This code consists of a table which shows the Year, Team, NAME, No., Pos, Ht, Wt, Age, Exp, College, FirstName, LastName, Ft, In, Inches. This table was imported into SQL using the ETL, SSIS process via the Visual Studio and this makes the table automated and when new changes or updates are being made to the table, it reflects in the database.
+Different DDL statements, aggregate functions and Operators were used to write the codes that determines each player by Team, Position, Height, Age, College, Missing age, Experience, weight, Tallest Player, Average Height of the player, Shortest player, Rank by POSITION. Some windows function such as RANK, OVER, PARTITION BY were also used in this code.
+
+**Technology used:** SQL server
+
 
