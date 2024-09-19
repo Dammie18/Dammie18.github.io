@@ -52,3 +52,15 @@ The raw data was gotten from Kaggle and was cleaned to remove duplicate rows. Pi
 **Dashboard Overview:**
 ![Adidas](Adidas.PNG)
 
+# Project 5
+**Title:** Employee Information Cleansing
+ 
+**SQL Code:** [SQL Queries](https://github.com/Dammie18/Dammie18.github.io/blob/main/Employee_info.sql)
+ 
+**SQL Skills Used:** Differnt DDL statements are used such as the CREATE TABLE, INSERT INTO JOIN statement
+ 
+**Project Description:** This code consists of two tables the Employee Info table which shows the EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender and the Employee Position which shows the EmpID, EmpPosition, DateOfJoining, Salary. Each table were created into the database using the CREATE TABLE statement and records were saved into the tables using the INSERT INTO statement. Different DDL statements, aggregate functions and Operators were used to write the codes. Also the table has a PRIMARY KEY which was used to joined the two tables together to view all the records in both table.
+ 
+**Technology used:** SQL server
+
+
