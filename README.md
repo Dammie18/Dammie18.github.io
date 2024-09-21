@@ -88,4 +88,17 @@ Different DDL statements, aggregate functions and Operators were used to write t
 **Dashboard Overview:**
 ![AMU](AMU.PNG)
 
+# Project 8
+ 
+**Title:** [DamZeal Cookies Financial Report Interactive Dashboard 2019/2020](https://github.com/Dammie18/Dammie18.github.io/blob/main/Cookies.pbix)
+ 
+**Tools Used:** PowerBi
+ 
+**Project Description:** 
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![Cookies](Cookies.PNG)
+
 
