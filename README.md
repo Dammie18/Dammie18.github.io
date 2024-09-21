@@ -75,4 +75,17 @@ Different DDL statements, aggregate functions and Operators were used to write t
 
 **Technology used:** SQL server
 
+# Project 7
+ 
+**Title:** [Vrinda Store Interactive Dashboard](https://github.com/Dammie18/Dammie18.github.io/blob/main/AMU%20Report%20and%20ConditionDB.pbix)
+ 
+**Tools Used:** PowerBi
+ 
+**Project Description:** 
+ 
+**Key findings:**
+ 
+**Dashboard Overview:**
+![AMU](AMU.PNG)
+
 
