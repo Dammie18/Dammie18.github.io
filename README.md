@@ -77,7 +77,7 @@ Different DDL statements, aggregate functions and Operators were used to write t
 
 # Project 7
  
-**Title:** [Vrinda Store Interactive Dashboard](https://github.com/Dammie18/Dammie18.github.io/blob/main/AMU%20Report%20and%20ConditionDB.pbix)
+**Title:** [Acute Medical Unit Report(AMU) for the Year 2019-2024 Interactive Dashboard](https://github.com/Dammie18/Dammie18.github.io/blob/main/AMU%20Report%20and%20ConditionDB.pbix)
  
 **Tools Used:** PowerBi
  
