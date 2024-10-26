@@ -7,7 +7,7 @@
  
 **Project Description:** This is an interactive Sales Dashboard that provides information on the order and sales by month this gives us the total sales made in each month, sales based on gender either men or women and also grouped by the product category providing us with which category of product gives the highest sales, order status performance(the state of products being cancelled, delivered, refunded or returned and from the dashboard we could see that 93% of the products were delivered giving us the highest sales), the order channel and the top 5 sales by states.
  
-**Key findings:** From dashboard the top 5 sales made about 50% of our total sales.
+**Key findings:** From the dashboard the top 5 sales made about 50% of our total sales.
  
 **Dashboard Overview:**
 ![Vrinda](Vrinda.PNG)
@@ -32,7 +32,7 @@
 **Project Description:** This is a retail store interactive dashboard that provides information on the sales by year, sales by product, marketing spending on products, the effect of Holiday on stores and the top 5 stores by sales. The dashboard consists of 2 slicers, one for the product category and the other for all the store locations. It also has a timeline which helps to view the periods either yearly, quarterly, monthly or daily.
 The raw data was gotten from Kaggle and was cleaned to remove duplicate rows. Pivot table was used to create the dashboard which makes it interactive, readable and easy to understand.
  
-**Key findings:** From dashboard the highest sales was generated in December 2023
+**Key findings:** From the dashboard the highest sales was generated in December 2023.
  
 **Dashboard Overview:**
 ![DamZeal%20Store](DamZeal%20Store.PNG)
@@ -41,7 +41,7 @@ The raw data was gotten from Kaggle and was cleaned to remove duplicate rows. Pi
  
 **Title:** [HR Dashboard Full Insight](https://github.com/Dammie18/Dammie18.github.io/blob/main/HR%20Analytics.pbix)
  
-**Tools Used:** PowerBi (slicers, barchart, pie chart, line chart, new column to create the refereshed date, textbox, shapes), DAX Measures and Functions
+**Tools Used:** PowerBi (slicers, barchart, pie chart, line chart, new column to create the refereshed date, textbox, shapes), DAX Measures and Functions.
  
 **Project Description:** This is an HR interactive dashboard that provides full insight on the Total Employees, total male employees and their percentage, total female employees and their percentage, employees due for promotion and those not due for promotion with their percentages, total number of employees with their service years, numbers of employees about to retire and the active workers, different levels of employees and their total number, and information of employees based on their distance from the office and more than 60% live very close to work.
 
@@ -72,7 +72,7 @@ Also, different DAX measures were used to calculate the figures so as to make it
 **Project Description:** This is an Acute Medical Unit (AMU) Report Interactive Dashboard for the Year 2019-2024. The dataset consists of detail information of patients Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, Test Results.
 The dataset was cleaned to remove duplicates information and empty rows were also removed. Also a new column was created called the Duration of Stay(Days) which was calculated by subtracting the Date of Admission from the Discharge Date to determine the number of Days spent in the hospital.
  
-**Key findings:** This dashboard provides insights on Average Duration of Days spent in the hospital by the admission type, the total billing amount by different medical conditions. Also the Total billing amount by admission type and we saw that elective admission type has the highest of 33.7%. Also, the dashboard provides information on medications used to treat different conditions, the blood type by Gender and the different medical conditions with respect to the test result. The dashboard also consists of a slicer used to get information based on the date of admission between the year 2019-2024
+**Key findings:** This dashboard provides insights on Average Duration of Days spent in the hospital by the admission type, the total billing amount by different medical conditions. Also the Total billing amount by admission type and we saw that elective admission type has the highest of 33.7%. Also, the dashboard provides information on medications used to treat different conditions, the blood type by Gender and the different medical conditions with respect to the test result. The dashboard also consists of a slicer used to get information based on the date of admission between the year 2019-2024.
  
 **Dashboard Overview:**
 ![AMU2](AMU2.PNG)
@@ -112,7 +112,7 @@ Different DDL statements, aggregate functions and Operators were used to write t
 The dataset provides details of the Country, Product, Units Sold, Revenue per cookie, Cost per cookie, Revenue, Cost, Profit, Date, Month, Number, Month Name and Year.
 
 **Key findings:** The dashboard provides insight on the Total profit and Total Revenue generated which are 2.76M and 4.69M respectively. Cards were used to generate these figures. Also the dashboard provides information on the total profit by product, total operating cost by month, total revenue by country.
-The dashboard consists of two slicers for the Date and different product and also a refreshed date to determine how updated and recent the dashboard insights are.
+The dashboard consists of two slicers for the Date and different products and also a refreshed date to determine how updated and recent the dashboard insights are.
  
 **Dashboard Overview:**
 ![Cookies%203](Cookies%203.PNG)
