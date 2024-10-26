@@ -89,7 +89,7 @@ The dataset was cleaned to remove duplicates information and empty rows were als
 **Key findings:** This dashboard provides insights on Average Duration of Days spent in the hospital by the admission type, the total billing amount by different medical conditions. Also the Total billing amount by admission type and we saw that elective admission type has the highest of 33.7%. Also, the dashboard provides information on medications used to treat different conditions, the blood type by Gender and the different medical conditions with respect to the test result. The dashboard also consists of a slicer used to get information based on the date of admission between the year 2019-2024
  
 **Dashboard Overview:**
-![AMU](AMU.PNG)
+![AMU2](AMU2.PNG)
 
 # Project 8
  
@@ -104,6 +104,6 @@ The dataset provides details of the Country, Product, Units Sold, Revenue per co
 The dashboard consists of two slicers for the Date and different product and also a refreshed date to determine how updated and recent the dashboard insights are.
  
 **Dashboard Overview:**
-![Cookies](Cookies.PNG)
+![Cookies%202](Cookies%202.PNG)
 
 
