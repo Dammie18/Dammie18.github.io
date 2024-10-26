@@ -1,4 +1,4 @@
-
+# Different Projects
 # Project 1
  
 **Title:** [DamZeal Retail Store Interactive Dashboard](https://github.com/Dammie18/Dammie18.github.io/blob/main/Retail_salesDB.xlsx)
